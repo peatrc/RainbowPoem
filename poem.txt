@@ -4,5 +4,6 @@ Red
 Orange
 Yellow
 Green
+Blue
 
 These are the colours of the Rainbow
