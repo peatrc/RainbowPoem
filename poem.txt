@@ -7,6 +7,7 @@ Green
 Blue
 Indigo
 Violet 
+Indigo
 The Unicorn
 
 These are the colours of the Rainbow, and the Unicorn
