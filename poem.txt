@@ -1,4 +1,4 @@
-Poem Demo for 
+The Rainbow and the Unicorn
 
 Red
 Orange
@@ -6,5 +6,7 @@ Yellow
 Green
 Blue
 Indigo
+Violet 
+The Unicorn
 
-These are the colours of the Rainbow
+These are the colours of the Rainbow, and the Unicorn
